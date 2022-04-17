@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emma871
-- 👀 I’m interested in Python aotu workflow, look forward to meet new friends in here.
+- 👀 I’m interested in Python auto workflow, look forward to meet new friends in here.
 - 🌱 I’m currently learning cs50 and Python. 
 - 📫 How to reach me:
 email: emma871362@gmail.com
